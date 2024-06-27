@@ -1,6 +1,6 @@
 # Plane Seat Booking System
 
-This Java program streamlines plane seat bookings with an intuitive interface for purchasing and canceling seats, locating the first available seat, viewing the seating arrangement, printing ticket details, and searching for tickets.
+This Java program streamlines plane seat bookings with an intuitive interface for purchasing and canceling seats, locating the first available seat, viewing the seating arrangement, printing ticket details, and searching for tickets and also This provides a txt file of user information and ticket details after successfully booking the seat.
 
 ## Table of Contents
 
