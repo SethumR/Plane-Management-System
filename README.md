@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java program streamlines plane seat bookings with an intuitive interface for purchasing and canceling seats, locating the first available seat, viewing the seating arrangement, printing ticket details, and searching for tickets and also This provides a txt file of user information and ticket details after successfully booking the seat.
+This Java program streamlines plane seat bookings with an intuitive interface for purchasing and canceling seats, locating the first available seat, viewing the seating arrangement, printing ticket details, and searching for tickets and also This provides a txt file of user information and ticket details after successfully booking the seat.</br>
 
 
 ## Table of Contents
@@ -12,21 +12,21 @@ This Java program streamlines plane seat bookings with an intuitive interface fo
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](#contact)</br>
   
 
-## Key Features </br></br></br>
+## Key Features 
 
 - Purchase and Cancel Seats: Allows users to buy or cancel seat reservations, updating seat availability accordingly.
 - Locate the First Available Seat: Quickly identifies and highlights the next free seat in the seating arrangement.
 - View the Seating Arrangement: Displays a visual map showing occupied and available seats.
 - Print Ticket Details: Provides a printable ticket with all necessary event and seat information.
-- Search for Tickets: Enables users to find and retrieve their tickets using booking details.
+- Search for Tickets: Enables users to find and retrieve their tickets using booking details.</br>
   
 
 ## Technologies
 
-- Java
+- Java</br>
 
 
 ## Installation
@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
     java Plane-Management-System
     ```
 
-Replace `MainClass` with the actual name of your main class.
+Replace `MainClass` with the actual name of your main class.</br>
 
 
 ## Usage
@@ -63,12 +63,12 @@ Once the program is running, you can use the intuitive interface to:
 - Locate the first available seat
 - View the seating arrangement
 - Print ticket details
-- Search for tickets
+- Search for tickets</br>
 
 
 ## License
 
-This project is open source and available under the [Sethum Ruberu](https://www.linkedin.com/in/sethum-ruberu-90a369293/).
+This project is open source and available under the [Sethum Ruberu](https://www.linkedin.com/in/sethum-ruberu-90a369293/).</br>
 
 
 ## Contact
