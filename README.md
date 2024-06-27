@@ -31,8 +31,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Sethumruberu/Plane-Management.git
-    cd Plane-Managemet
+    git clone https://github.com/Sethumruberu/Plane-Management-System.git
+    cd Plane-Managemet-System
     ```
 
 2. **Compile the Java files:**
