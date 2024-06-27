@@ -59,30 +59,6 @@ Once the program is running, you can use the intuitive interface to:
 - Print ticket details
 - Search for tickets
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. **Fork the repository**
-2. **Create your feature branch:**
-
-    ```sh
-    git checkout -b feature/YourFeature
-    ```
-
-3. **Commit your changes:**
-
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-
-4. **Push to the branch:**
-
-    ```sh
-    git push origin feature/YourFeature
-    ```
-
-5. **Create a new Pull Request**
 
 ## License
 
