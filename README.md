@@ -95,3 +95,5 @@ Feel free to reach out if you have any questions or suggestions!
 - Email: Sethumruberu05@gmail.com
 - LinkedIn: [View my profile](https://www.linkedin.com/in/sethum-ruberu-90a369293/)
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
