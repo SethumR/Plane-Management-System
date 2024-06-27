@@ -15,7 +15,7 @@ This Java program streamlines plane seat bookings with an intuitive interface fo
 - [Contact](#contact)
   
 
-## Features
+## Key Features </br></br></br>
 
 - Purchase and Cancel Seats: Allows users to buy or cancel seat reservations, updating seat availability accordingly.
 - Locate the First Available Seat: Quickly identifies and highlights the next free seat in the seating arrangement.
