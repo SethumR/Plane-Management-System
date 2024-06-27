@@ -42,7 +42,7 @@ public class Ticket {
         return person;
     }
 
-    public void setPerson(Person person) {
+    public void setPerson(Person person){
         this.person = person;
     }
 
