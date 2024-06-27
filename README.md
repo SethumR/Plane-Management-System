@@ -32,19 +32,19 @@ To run this project locally, follow these steps:
 
     ```sh
     git clone https://github.com/Sethumruberu/Plane-Management-System.git
-    cd Plane-Managemet-System
+    cd Plane-Management-System
     ```
 
 2. **Compile the Java files:**
 
     ```sh
-    javac -d bin src/*.java
+    javac Plane-Management-System
     ```
 
 3. **Run the program:**
 
     ```sh
-    java -cp bin MainClass
+    java Plane-Management-System
     ```
 
 Replace `MainClass` with the actual name of your main class.
@@ -94,6 +94,3 @@ Feel free to reach out if you have any questions or suggestions!
 
 - Email: Sethumruberu05@gmail.com
 - LinkedIn: [View my profile](https://www.linkedin.com/in/sethum-ruberu-90a369293/)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
