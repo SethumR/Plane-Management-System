@@ -17,16 +17,16 @@ This Java program streamlines plane seat bookings with an intuitive interface fo
 
 ## Key Features 
 
-- Purchase and Cancel Seats: Allows users to buy or cancel seat reservations, updating seat availability accordingly.
-- Locate the First Available Seat: Quickly identifies and highlights the next free seat in the seating arrangement.
-- View the Seating Arrangement: Displays a visual map showing occupied and available seats.
-- Print Ticket Details: Provides a printable ticket with all necessary event and seat information.
-- Search for Tickets: Enables users to find and retrieve their tickets using booking details.</br></br>
+- Purchase and Cancel Seats:- Allows users to buy or cancel seat reservations, updating seat availability accordingly.
+- Locate the First Available Seat:- Quickly identifies and highlights the next free seat in the seating arrangement.
+- View the Seating Arrangement:- Displays a visual map showing occupied and available seats.
+- Print Ticket Details:- Provides a printable ticket with all necessary event and seat information.
+- Search for Tickets:- Enables users to find and retrieve their tickets using booking details.</br></br>
   
 
 ## Technologies
 
-- Java</br>
+- Java</br></br>
 
 
 ## Installation
