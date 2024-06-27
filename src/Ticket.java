@@ -18,7 +18,7 @@ public class Ticket {
         return row;
     }
 
-    public void setRow(String row) {
+    public void setRow(String row){
         this.row = row;
     }
 
