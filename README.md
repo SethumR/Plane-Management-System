@@ -1,11 +1,11 @@
 # Plane Seat Booking System</br>
 
-## Overview
+## 🤖Overview
 
 This Java program streamlines plane seat bookings with an intuitive interface for purchasing and canceling seats, locating the first available seat, viewing the seating arrangement, printing ticket details, and searching for tickets and also This provides a txt file of user information and ticket details after successfully booking the seat.</br></br>
 
 
-## Table of Contents
+## 📋Table of Contents
 
 - [Features](#features)
 - [Technologies](#technologies)
@@ -15,7 +15,7 @@ This Java program streamlines plane seat bookings with an intuitive interface fo
 - [Contact](#contact)</br></br>
   
 
-## Key Features 
+## 🔗Key Features 
 
 - Purchase and Cancel Seats:- Allows users to buy or cancel seat reservations, updating seat availability accordingly.
 - Locate the First Available Seat:- Quickly identifies and highlights the next free seat in the seating arrangement.
@@ -24,12 +24,12 @@ This Java program streamlines plane seat bookings with an intuitive interface fo
 - Search for Tickets:- Enables users to find and retrieve their tickets using booking details.</br></br>
   
 
-## Technologies
+## ⚙️Technologies
 
 - Java</br></br>
 
 
-## Installation
+## 🛠️Installation
 
 To run this project locally, follow these steps:
 
@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 Replace `MainClass` with the actual name of your main class.</br></br>
 
 
-## Usage
+## 🔗Usage
 
 Once the program is running, you can use the intuitive interface to:
 
@@ -66,12 +66,12 @@ Once the program is running, you can use the intuitive interface to:
 - Search for tickets</br></br>
 
 
-## License
+## 📌License
 
 This project is open source and available under the [Sethum Ruberu](https://www.linkedin.com/in/sethum-ruberu-90a369293/).</br></br>
 
 
-## Contact
+## ☎️Contact
 
 Feel free to reach out if you have any questions or suggestions!
 
